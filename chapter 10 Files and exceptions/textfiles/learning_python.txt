@@ -1,0 +1,4 @@
+In python you can learn store information in lists,dictionaries
+In python you can learn to represent or recreate real life situations with the Help of Functions and classed
+In python You can Iterate on something so that you can process something for required no.of times with the help of if and while loops
+In python you can also visualise data
